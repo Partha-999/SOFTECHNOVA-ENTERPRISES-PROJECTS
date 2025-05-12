@@ -83,27 +83,6 @@ Develop a quiz platform with timed quizzes, instant result evaluation, and leade
 - 📄 Task Submission Form (to be filled after 15 days of internship start)
 - 🏆 Certificate (Issued within 2–3 days after final submission)
 
-## 📁 Repository Structure
-
-Softechnova-Enterprises-Projects/
-│
-├── Task-01_Movie-Review/
-│ └── [Code, Screenshots, README]
-│
-├── Task-02_Online-Course-App/
-│ └── [Code, Screenshots, README]
-│
-├── Task-03_Employee-Login-System/
-│ └── [Code, Screenshots, README]
-│
-├── Task-04_Job-Applying-Site/
-│ └── [Code, Screenshots, README]
-│
-├── Task-05_Online-Quiz/
-│ └── [Code, Screenshots, README]
-│
-└── README.md
-
 ## 🙏 Acknowledgment
 
 I would like to thank **Softechnova Enterprises** for this incredible opportunity to enhance my full-stack development skills and work on real-world projects.
