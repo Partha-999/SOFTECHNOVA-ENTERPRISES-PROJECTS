@@ -21,7 +21,7 @@ Build a platform where users can register/login, write, read, and rate movie rev
 - User Authentication (Login/Sign Up)
 - Add, Edit, Delete, and View Movie Reviews
 - 5-Star Rating System
-- Backend Database for Reviews (MongoDB / MySQL)
+- Backend Database for Reviews (Supabase)
 
 ### ✅ Task 02 – 🎓 Online Course Selling Web Application
 
